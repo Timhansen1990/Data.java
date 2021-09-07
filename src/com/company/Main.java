@@ -17,6 +17,17 @@ public class Main {
         System.out.print(" ");
         System.out.print(date);
         System.out.print(", ");
+        System.out.println(year);
+
+
+        System.out.print("European Format: ");
+        System.out.print(day);
+        System.out.print(", ");
+        System.out.print(date);
+        System.out.print(" ");
+        System.out.print(Month);
+        System.out.print(", ");
         System.out.print(year);
     }
+
 }
